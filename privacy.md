@@ -50,7 +50,7 @@ We may share information as discussed below, but we won't sell it to advertisers
 
 *Others working for and with Guildflow.* Guildflow may use certain trusted third parties (for example, providers of customer support and IT services) for the business purposes of helping us provide, improve, protect, and promote our Services. These third parties will access your information to perform tasks on our behalf, and we'll remain responsible for their handling of your information per our instructions. Third parties that we use to provide Guildflow's Services are: 
 
-* Hosing on [Linode](https://www.linode.com/) | [Privacy Policy](https://www.linode.com/legal-privacy/)
+* Hosting on [Linode](https://www.linode.com/) | [Privacy Policy](https://www.linode.com/legal-privacy/)
 * Transaction emails sent with [Postmark](https://postmarkapp.com/) | [Privacy Policy](https://wildbit.com/privacy-policy)
 * Newsletter emails sent with [Campaign Monitor](https://www.campaignmonitor.com/) | [Privacy Policy](https://www.campaignmonitor.com/policies/#privacy-policy)
 * Website analytics using [Clicky](https://clicky.com) | [Privacy Policy](https://clicky.com/terms/privacy)
