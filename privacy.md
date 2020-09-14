@@ -57,6 +57,7 @@ We may share information as discussed below, but we won't sell it to advertisers
 * Error tracking using [AppSignal](https://appsignal.com/) | [Privacy Policy](https://appsignal.com/privacy-policy) 
 * Member avatars via [Gravatar](https://en.gravatar.com/) | [Privacy Policy](https://automattic.com/privacy/)
 * Subscription charges are processed through [Paddle](https://paddle.com/)  | [Privacy Policy](https://paddle.com/privacy/) 
+* Customer Support and Knowledge Base via [Groove](https://www.groovehq.com) | [Privacy Policy](https://www.groovehq.com/our/privacy)
 
 *Other users.* Our Services display information like your name, profile picture, device, email address, and usage information to other users you collaborate or choose to share with. Certain features let you make additional information available to others, including group leaders and administrators. Private groups are strictly locked down, requiring members to sign in for all activity and the group name and summary are never published to the internet at large. Public groups are more open; the name and summary are published as well as basic event info. 
 
