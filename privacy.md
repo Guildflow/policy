@@ -53,7 +53,7 @@ We may share information as discussed below, but we won't sell it to advertisers
 * Hosting on [Linode](https://www.linode.com/) | [Privacy Policy](https://www.linode.com/legal-privacy/)
 * Transaction emails sent with [Postmark](https://postmarkapp.com/) | [Privacy Policy](https://wildbit.com/privacy-policy)
 * Newsletter emails sent with [Campaign Monitor](https://www.campaignmonitor.com/) | [Privacy Policy](https://www.campaignmonitor.com/policies/#privacy-policy)
-* Website analytics using [Clicky](https://clicky.com) | [Privacy Policy](https://clicky.com/terms/privacy)
+* Website analytics using [Fathom](https://usefathom.com) | [Privacy Policy](https://usefathom.com/privacy) 
 * Error tracking using [AppSignal](https://appsignal.com/) | [Privacy Policy](https://appsignal.com/privacy-policy) 
 * Member avatars via [Gravatar](https://en.gravatar.com/) | [Privacy Policy](https://automattic.com/privacy/)
 * Subscription charges are processed through [Paddle](https://paddle.com/)  | [Privacy Policy](https://paddle.com/privacy/) 
