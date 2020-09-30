@@ -1,6 +1,8 @@
 # Guildflow Terms of Service
 
-> This is a draft preview of the terms of service policy. We would love your feedback if these terms are clear and appropriate. Please read it over and provide your feedback to: <hello@guildflow.com>. Thank you.
+Last updated: September 30, 2020.
+
+<https://github.com/Guildflow/policy>
 
 These Terms of Service and all supplemental terms, as amended from time to time, govern your use of any online or mobile product or service to which you have access, any product or service that requires an Internet connection or Account to access as well as any Account you use to access online or mobile products or services ("***GUILDFLOW Services***") offered by ZORN LABS LLC or any of its subsidiaries and affiliates (collectively, "***GUILDFLOW***") for the web, personal computer, or mobile device. If you reside in the United States or the European Union, these terms are an agreement between you and ZORN LABS LLC.  
 
@@ -190,7 +192,7 @@ The Terms of Service (including the GUILDFLOW Privacy Policy and other Supplemen
 
 ### 20. Notice to California Residents 
 
-Pursuant to Cal. Civil Code § 1789.3, please note that (a) GUILDFLOW is located at 399 Market Street, Suite 360, Philadelphia, PA 19106,, (b) The fees and charges for GUILDFLOW Services vary depending on the services selected by you, and (c) If you have a complaint regarding GUILDFLOW Services or desire further information on use of GUILDFLOW Services, visit GUILDFLOW's Customer Support web pages at URL. For complaints, you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs in writing at 400 "R" Street, Sacramento, CA 95814 or by telephone at (916) 445-1254 or (800) 952-5210. 
+Pursuant to Cal. Civil Code § 1789.3, please note that (a) GUILDFLOW is located at 399 Market Street, Suite 360, Philadelphia, PA 19106,, (b) The fees and charges for GUILDFLOW Services vary depending on the services selected by you, and (c) If you have a complaint regarding GUILDFLOW Services or desire further information on use of GUILDFLOW Services, contact GUILDFLOW's Customer Support at <hello@guildflow.com>. For complaints, you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs in writing at 400 "R" Street, Sacramento, CA 95814 or by telephone at (916) 445-1254 or (800) 952-5210. 
 
 Bookmark <https://guildflow.com/policy/> and visit this site regularly for updates to GUILDFLOW Terms of Service. 
 
