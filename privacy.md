@@ -1,6 +1,8 @@
 # Guildflow Privacy Policy 
 
-> This is a draft preview of the privacy policy. We take your privacy seriously and would love your feedback if these terms are clear and appropriate. Please read it over and provide your feedback to: <privacy@guildflow.com>. Thank you.
+Last updated: September 30, 2020.
+
+<https://github.com/Guildflow/policy>
 
 Thanks for using Guildflow! Here we describe how we collect, use, and handle your personal data and information when you use our websites, software, and services ("**Services**").  
 
@@ -59,7 +61,7 @@ We may share information as discussed below, but we won't sell it to advertisers
 * Subscription charges are processed through [Paddle](https://paddle.com/)  | [Privacy Policy](https://paddle.com/privacy/) 
 * Customer Support and Knowledge Base via [Groove](https://www.groovehq.com) | [Privacy Policy](https://www.groovehq.com/our/privacy)
 
-*Other users.* Our Services display information like your name, profile picture, device, email address, and usage information to other users you collaborate or choose to share with. Certain features let you make additional information available to others, including group leaders and administrators. Private groups are strictly locked down, requiring members to sign in for all activity and the group name and summary are never published to the internet at large. Public groups are more open; the name and summary are published as well as basic event info. 
+*Other users.* Our Services display information like your name, profile picture, device, email address, and usage information to other users you collaborate or choose to share with. Certain features let you make additional information available to others, including group leaders and administrators. Private groups are strictly locked down, requiring members to sign in for all activity and the group name and summary are never published to the internet at large. Public groups are more open; the group name and summary are published as well as basic event info. 
 
 *Group Owners.* Group Owners and administrators have the ability to download and export all data relating to a group and take that data to another service. If a Group Owner wishes to take Your Stuff with them to another service, that Group Owner must obtain your consent to do so. If you do not wish for Your Stuff to be included in a group export, you may choose to be excluded via the "Edit Group Export Setting" on your account settings page. Your Stuff will remain your property. 
 
